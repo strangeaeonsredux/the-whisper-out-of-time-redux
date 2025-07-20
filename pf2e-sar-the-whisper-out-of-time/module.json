@@ -1,0 +1,24 @@
+{
+  "id": "pf2e-sar-the-whisper-out-of-time",
+  "title": "Strange Aeons Redux 4 of 6: The Whisper Out of Time",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "description": "<p>Book 4 of Strange Aeons for Pathfinder Second Edition!</p>",
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "The Whisper Out of Time",
+      "path": "packs/pack-1",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}

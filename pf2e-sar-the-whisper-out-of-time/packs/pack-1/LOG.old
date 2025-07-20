@@ -1,0 +1,7 @@
+2025/07/19-23:45:46.612 3378 Recovering log #192
+2025/07/19-23:45:46.614 3378 Delete type=0 #192
+2025/07/19-23:45:46.614 3378 Delete type=3 #190
+2025/07/19-23:48:07.703 42c Level-0 table #197: started
+2025/07/19-23:48:07.766 42c Level-0 table #197: 1284105 bytes OK
+2025/07/19-23:48:07.767 42c Delete type=0 #195
+2025/07/19-23:48:07.767 42c Manual compaction at level-0 from '!adventures!TVWIJQY4QDOD46OW' @ 72057594037927935 : 1 .. '!adventures!TVWIJQY4QDOD46OW' @ 0 : 0; will stop at (end)
